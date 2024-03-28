@@ -1,3 +1,7 @@
+# ReadWise
+
+2nd place at the HackOrange hackathon, which was my first hackathon ever.
+
 ## Inspiration
 
 When I was a student at my old elementary school, I noticed that many of the books available in the library were not at the appropriate reading level for students. Additionally, many students didn't have an interest in reading in the first place. Often, I was able to encourage students to start reading simply by suggesting them books that were appropriate to their level of reading. This inspired me to create a project that could address this issue.
