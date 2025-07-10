@@ -1,4 +1,5 @@
 # ReadWise
+2nd place @ HackOrange
 
 ## Inspiration
 
